@@ -2,18 +2,6 @@
 
 A machine learning project that predicts forest cover types using cartographic variables and environmental features. This project implements a complete ML pipeline including data preprocessing, feature selection, hyperparameter optimization, and model evaluation.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Project Structure](#project-structure)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Contributing](#contributing)
 
 ## 🎯 Overview
 
